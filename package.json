@@ -1,0 +1,15 @@
+{
+  "name": "unc-performance-test",
+  "version": "1.0.0",
+  "description": "Quick test comparing unc vs normal file paths",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felix Rieseberg <felix@felixrieseberg.com>",
+  "license": "MIT",
+  "dependencies": {
+    "perfy": "^1.1.2"
+  },
+  "preferGlobal": true
+}
