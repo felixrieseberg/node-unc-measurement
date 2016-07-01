@@ -1,7 +1,9 @@
 {
   "name": "unc-performance-test",
-  "version": "1.0.0",
-  "bin" : { "unc-performance-test" : "./index.js" },
+  "version": "1.0.1",
+  "bin": {
+    "unc-performance-test": "./index.js"
+  },
   "description": "Quick test comparing unc vs normal file paths",
   "main": "index.js",
   "scripts": {
